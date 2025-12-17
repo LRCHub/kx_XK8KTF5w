@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "星のパンフレット",
+  "base_artist": "H△G",
+  "createdAt": "2025-12-17T08:34:04.447877Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星のパンフレット (星星的小册子)",
+      "artist": "H△G",
+      "has_synced": true,
+      "path": "select/01_星のパンフレット_(星星的小册子)_H△G.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星のパンフレット",
+      "artist": "H△G",
+      "has_synced": true,
+      "path": "select/02_星のパンフレット_H△G.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星のパンフレット",
+      "artist": "H△G",
+      "has_synced": false,
+      "path": "select/pl_01_星のパンフレット_H△G.txt"
+    }
+  ]
+}
